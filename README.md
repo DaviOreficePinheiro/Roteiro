@@ -1,0 +1,2 @@
+# Roteiro
+Lógica para computação
